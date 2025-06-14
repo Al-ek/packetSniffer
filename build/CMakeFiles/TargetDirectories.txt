@@ -1,0 +1,3 @@
+/home/aleksander-elkins/projects/signal_processing/PacketSniffer/build/CMakeFiles/packetSniffer.dir
+/home/aleksander-elkins/projects/signal_processing/PacketSniffer/build/CMakeFiles/edit_cache.dir
+/home/aleksander-elkins/projects/signal_processing/PacketSniffer/build/CMakeFiles/rebuild_cache.dir
